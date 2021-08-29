@@ -76,7 +76,6 @@
     font-weight: 700;
   }
   
-  /* IMAGE */
   img {
     display: block;
     max-width: 100%;
@@ -97,8 +96,7 @@
     opacity: 0.8;
     mix-blend-mode: multiply;
   }
-  
-  /* TEXT */
+
   .highlight {
     color: var(--soft-violet);
   }
@@ -134,7 +132,6 @@
       text-align: start;
     }
   
-    /* IMAGE */
     img {
       display: block;
       width: 540px;
@@ -145,7 +142,6 @@
       content: url("./images/image-header-desktop.jpg");
     }
   
-    /* HEADLINES */
     h1 {
       font-size: 2.25rem;
       font-weight: 700;
